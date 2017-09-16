@@ -1,5 +1,5 @@
 # 538-Classic-Riddler-9.15
-My notebook can be found in the code section, but it is all preformed under the following principle. 
+My notebook can be found in the Jupyter Notebook section, but it is all preformed under the following principle. 
 
 Triangle inequality princple
 
